@@ -17,7 +17,7 @@ export const PREFIX = {
     [BLOCK_OPERATOR]: "ope_",
     [BLOCK_FORM]: "edt_",
 }
-export const SERVER_URL = 'http://127.0.0.1:2172/site';
+export const SERVER_URL = 'http://192.168.9.168:2172/site';
 export const REQUEST_TIMEOUT = 30000;
 export const LOGIN_ON_OTHERSIDE = 0;
 export const DEFAULT_CMD = '/TOPIC';
